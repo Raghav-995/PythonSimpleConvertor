@@ -4,8 +4,7 @@
 >> pip install tkinter
 
 # Run to open the program
->> cd PythonSimpleConvertor
->> cd All_in_one_converter
+>> cd PythonSimpleConvertor/cd All_in_one_converter
 >> py converter.py
 
 # Final Output
