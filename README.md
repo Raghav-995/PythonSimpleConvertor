@@ -4,7 +4,7 @@
 https://github.com/Raghav-995/PythonSimpleConvertor.git
 
 # Step2: Open the CMD
->> cd PythonSimpleConvertor/cd All_in_one_converter
+>> cd PythonSimpleConvertor/All_in_one_converter
 
 # Step:3 Install Tkinter library
 >> pip install tkinter
