@@ -7,8 +7,7 @@ from functools import partial
 from tkinter import Tk, StringVar , ttk
 
 
-
-###################################################################        
+     
 root = Tk()
 root.title('Simple CONVERTER')
 root.geometry("450x450+200+200")
